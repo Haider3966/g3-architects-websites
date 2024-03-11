@@ -191,7 +191,16 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
-
+/* footer section styles */
+.background-color{
+    background: rgba(255,144,14,0.10);
+     
+}
+.footer-section{
+     text-align: center;
+     
+      
+}
 /* Responsive   media queries */
 /* mobile devices */
 @media screen and (max-width: 576px) {
